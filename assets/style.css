@@ -1,0 +1,31 @@
+body {
+    background-color: #111827;
+}
+
+.h-map {
+    height: 55vh;
+}
+
+.themeColor {
+    color: aqua !important;
+}
+
+#cust-navbar-section .cust-links a:hover {
+    color: white;
+}
+
+.bg-themeColor {
+    background-color: aqua !important;
+}
+
+#cust-hero-section {
+    height: 100vh;
+}
+
+#cust-hero-section h1 span {
+    color: aqua;
+}
+
+.text-bgColor {
+    color: #111827;
+}
